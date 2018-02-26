@@ -1,5 +1,6 @@
 # MT-Demo
 
+<<<<<<< HEAD
 A Particle project named MT-Demo
 
 ## Welcome to your project!
@@ -33,3 +34,5 @@ When you're ready to compile your project, make sure you have the correct Partic
 - Everything in the `/src` folder, including your `.ino` application file
 - The `project.properties` file for your project
 - Any libraries stored under `lib/<libraryname>/src`
+=======
+>>>>>>> 8ec8a11768ba6d0ac96c6154fadbd243e610f8a1
